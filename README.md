@@ -23,5 +23,5 @@ Each day unlocks a new puzzle with two parts, and I am solving them daily and or
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/pamidibindukumar/adventofcode.git
 
