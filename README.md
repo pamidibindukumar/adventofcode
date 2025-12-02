@@ -8,8 +8,9 @@ Each day unlocks a new puzzle with two parts, and I am solving them daily and or
 
 - Every folder represents a **year** of the competition (2025, 2024, ...).
 - Each year's folder includes:
-  - The puzzle input
-  - My solution code for each day challenge
+  - My solution code for each day challenge in separate `.py` files (named as `day1.py`, `day2.py`, `day3.py`, etc.)
+  - The input file for each day's puzzle (if applicable)
+  - Any helper utilities or notes
 
 ## 🎯 Purpose of This Project
 
